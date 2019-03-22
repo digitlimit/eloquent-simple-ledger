@@ -1,7 +1,7 @@
 # Simple Ledger Mechanism via Laravel Eloquent
 
 ### Installation
-`composer require wzulfikar\eloquent-simple-ledger`
+`composer require wzulfikar/eloquent-simple-ledger`
 
 ### Usage 
 	
